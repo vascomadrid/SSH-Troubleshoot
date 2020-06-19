@@ -1,6 +1,12 @@
 # SSH-Troubleshoot
 Tools to troubleshoot ssh connections to campus server with access to server and client side. Each folder contains a different tool with its own readme. 
 
+# Online resources used:
+- https://help.skysilk.com/support/solutions/articles/9000150151-how-to-troubleshoot-ssh-connection-issues-using-vnc-console
+Contains information about the ping and ufw commands I used.
+- https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands#:~:text=Allow%20MySQL%20from%20Specific%20IP%20Address%20or%20Subnet&text=For%20example%2C%20if%20you%20want%20to%20allow%20the%20entire%2015.15,24%20to%20any%20port%203306
+Detailed information on navigating uncomplicated firewalls 
+
 # Original Exploration Overview:
 ## Problem: 
 Students working on shared server were having problems remotely connecting.
